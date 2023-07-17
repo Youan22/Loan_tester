@@ -22,8 +22,7 @@ Java
 
 # Future Work
 Improvements:
-
-1- User interface: Enhance the user interface by developing a graphical user interface (GUI) using a framework such as JavaFX or Swing to provide a more user-friendly experience.
-2- Localization: Add support for multiple languages and localization to make the loan calculator accessible to users from different regions.
-3- Code optimization: Review and optimize the code for performance, readability, and efficiency. Consider refactoring any redundant or complex code segments.
+* User interface: Enhance the user interface by developing a graphical user interface (GUI) using a framework such as JavaFX or Swing to provide a more user-friendly experience.
+* Localization: Add support for multiple languages and localization to make the loan calculator accessible to users from different regions.
+* Code optimization: Review and optimize the code for performance, readability, and efficiency. Consider refactoring any redundant or complex code segments.
 
